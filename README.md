@@ -2,7 +2,7 @@ README for Automating SonarQube and PostgreSQL Deployment
 
 Overview :
 
-In this assignment, the goal was to automate the deployment of SonarQube and PostgreSQL on an AWS EC2 instance using Terraform and Bash scripting. Initially, I manually tested the deployment on my local machine and AWS EC2 instance to ensure everything worked as expected. After successful manual testing, I automated the entire process using the Bash script and Terraform configuration.
+In this project, the goal was to automate the deployment of SonarQube and PostgreSQL on an AWS EC2 instance using Terraform and Bash scripting. Initially, I manually tested the deployment on my local machine and AWS EC2 instance to ensure everything worked as expected. After successful manual testing, I automated the entire process using the Bash script and Terraform configuration.
 
 This README outlines the prerequisites, setup steps, and the flow of the automated deployment process.
 
